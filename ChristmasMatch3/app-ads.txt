@@ -1,3 +1,5 @@
+loopme.com, 18455, DIRECT, 6c8d5f95897a5a3b
+chartboost.com, 66148a6e5df8a230cc311088, DIRECT
 smartclip.net, 15458, RESELLER
 pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
 instreamatic.com, 118, RESELLER
