@@ -1,0 +1,11 @@
+# Christmas Match 3 - app-ads.txt
+# Last updated: 2026-11-19
+
+# Unity Ads
+unity.com, 6225333, DIRECT
+
+# Tapjoy
+tapjoy.com, a6867936-5363-44e3-908e-35bf9e066824, DIRECT
+
+# Chartboost
+chartboost.com, 6afa6bcebe9a89d3ed33ac45, DIRECT
